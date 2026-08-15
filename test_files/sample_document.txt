@@ -1,0 +1,2 @@
+This is a benign sample text file used to test safe file scanning.
+No threats here!

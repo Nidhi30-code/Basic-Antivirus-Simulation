@@ -1,0 +1,20 @@
+[
+  {
+    "malware_name": "EICAR_Test_File_Simulation",
+    "sha256_hash": "275a021bbfb6489e54d471899f7db9d1663fc695ec2fe2a2c4538aabf651fd0f",
+    "description": "Educational dummy signature representing standard EICAR test pattern.",
+    "severity": "HIGH (DEMO)"
+  },
+  {
+    "malware_name": "Simulated_Trojan_Test_Pattern",
+    "sha256_hash": "8c6976e5b5410415bde908bd4dee15dfb167a9c873fc4bb8a81f6f2ab448a918",
+    "description": "Educational dummy signature for test threat verification.",
+    "severity": "CRITICAL (DEMO)"
+  },
+  {
+    "malware_name": "Simulated_Educational_Threat_Pattern",
+    "sha256_hash": "54781361764af1615981906857d7c19777ed9ba251edc02df36d174054fbf05b",
+    "description": "Harmless educational signature used to demonstrate threat detection in presentations.",
+    "severity": "HIGH (DEMO)"
+  }
+]

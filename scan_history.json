@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-07-31 18:34:46",
+    "folder_scanned": "C:/Users/Nidhi Rohit Jaiswar/.gemini/antigravity/scratch/basic_antivirus/test_files",
+    "total_files": 3,
+    "safe_files": 2,
+    "threats_detected": 1,
+    "quarantined_files": 0,
+    "duration_seconds": 0.08
+  },
+  {
+    "timestamp": "2026-07-31 18:19:23",
+    "folder_scanned": "C:\\Users\\Nidhi Rohit Jaiswar\\.gemini\\antigravity\\scratch\\basic_antivirus\\test_files",
+    "total_files": 3,
+    "safe_files": 2,
+    "threats_detected": 1,
+    "quarantined_files": 1,
+    "duration_seconds": 0.05
+  },
+  {
+    "timestamp": "2026-07-31 18:19:05",
+    "folder_scanned": "C:\\Users\\Nidhi Rohit Jaiswar\\.gemini\\antigravity\\scratch\\basic_antivirus\\test_files",
+    "total_files": 3,
+    "safe_files": 2,
+    "threats_detected": 1,
+    "quarantined_files": 1,
+    "duration_seconds": 0.05
+  }
+]

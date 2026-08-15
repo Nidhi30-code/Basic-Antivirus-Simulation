@@ -1,0 +1,12 @@
+[
+  {
+    "id": "6ab4b9d2",
+    "original_filename": "simulated_threat_file.txt",
+    "original_path": "C:/Users/Nidhi Rohit Jaiswar/.gemini/antigravity/scratch/basic_antivirus/test_files\\simulated_threat_file.txt",
+    "quarantined_filename": "QUARANTINED_6ab4b9d2_simulated_threat_file.txt.vir",
+    "quarantined_path": "C:\\Users\\Nidhi Rohit Jaiswar\\.gemini\\antigravity\\scratch\\basic_antivirus\\quarantine\\QUARANTINED_6ab4b9d2_simulated_threat_file.txt.vir",
+    "sha256_hash": "54781361764af1615981906857d7c19777ed9ba251edc02df36d174054fbf05b",
+    "threat_name": "Simulated_Educational_Threat_Pattern",
+    "timestamp": "2026-07-31 18:36:02"
+  }
+]
